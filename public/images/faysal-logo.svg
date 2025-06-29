@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-f {
+      font-family: 'Segoe UI', sans-serif;
+      font-weight: 700;
+      font-size: 48px;
+      fill: #3b82f6; /* Tailwind blue-500 */
+    }
+  </style>
+  <text x="12" y="45" class="logo-f">F</text>
+</svg>
