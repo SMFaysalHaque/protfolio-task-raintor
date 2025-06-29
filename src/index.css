@@ -1,1 +1,34 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "BwGradualExtraBold";
+  src: url("./assets/fonts/BwGradualDEMO-ExtraBold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sporting Grotesque Regular";
+  src: url("./assets/fonts/SportingGrotesque-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Sporting Grotesque Bold";
+  src: url("./assets/fonts/SportingGrotesque-Bold.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-grotesqueRegular {
+  font-family: "Sporting Grotesque Regular", sans-serif;
+}
+
+.font-grotesqueBold {
+  font-family: "Sporting Grotesque Bold", sans-serif;
+}
+
+.font-bwgradual {
+  font-family: "BwGradualExtraBold", sans-serif;
+}
